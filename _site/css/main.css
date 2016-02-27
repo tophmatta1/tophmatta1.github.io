@@ -1149,7 +1149,8 @@ h1, h2, h3, h4, h5, h6 {
 
 h2 {
   font-size: 1.35em;
-  line-height: 1.75em; }
+  line-height: 1.75em;
+  text-transform: none; }
   @media screen and (max-width: 736px) {
     h2 {
       font-size: 1.1em;
@@ -2432,8 +2433,7 @@ body.is-menu-visible #menu {
       bottom: 0;
       right: 0; }
   #banner p {
-    letter-spacing: 0.225em;
-    text-transform: uppercase; }
+    letter-spacing: 0.225em; }
     #banner p a {
       color: inherit; }
   #banner .more {
