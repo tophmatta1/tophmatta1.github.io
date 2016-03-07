@@ -1485,7 +1485,7 @@ input[type="radio"] + label:before {
 /* Image */
 .image {
   border-radius: 3px;
-  border: 0;
+  border: 100px;
   display: inline-block;
   position: relative; }
   .image img {
