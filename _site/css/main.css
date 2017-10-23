@@ -1510,6 +1510,10 @@ input[type="radio"] + label:before {
     .image.fit img {
       width: 100%; }
 
+.image-swot {
+  display: flex;
+  justify-content: center; }
+
 /* List */
 ol {
   list-style: decimal;
